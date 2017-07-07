@@ -2,7 +2,7 @@
 
 Material-UI aims to provide strong foundations for building dynamic UIs.
 For the sake of simplicity **we expose our internal styling solution to users**.
-You can use it, but you don't have to. This styling solution is interoperable with another other one, like [PostCSS](https://github.com/postcss/postcss), [CSS modules](https://github.com/css-modules), or [styled-components](https://github.com/styled-components/styled-components).
+You can use it, but you don't have to. This styling solution is interoperable with other ones, like [PostCSS](https://github.com/postcss/postcss), [CSS modules](https://github.com/css-modules), or [styled-components](https://github.com/styled-components/styled-components).
 
 ## Our styling solution
 
